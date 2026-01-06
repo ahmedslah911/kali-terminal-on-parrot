@@ -53,8 +53,8 @@ The script installs, configures, and optimizes everything automatically without 
 ```bash
 git clone https://github.com/ahmedslah911/kali-terminal-on-parrot.git
 cd kali-terminal-on-parrot
-chmod +x kali-terminal-on-parrot.sh
-sudo ./kali-terminal-on-parrot.sh
+chmod +x kali-to-parrot.sh
+sudo ./kali-to-parrot.sh
 ```
 
 
@@ -71,15 +71,15 @@ sudo -i
 ```bash
 git clone https://github.com/ahmedslah911/kali-terminal-on-parrot.git && \
 cd kali-terminal-on-parrot && \
-chmod +x kali-terminal-on-parrot.sh && \
-sudo ./kali-terminal-on-parrot.sh
+chmod +x kali-to-parrot.sh && \
+sudo ./kali-to-parrot.sh
 ```
 
 
 ## 🔹 Direct Execution (Advanced)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ahmedslah911/kali-terminal-on-parrot/main/kali-terminal-on-parrot.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/ahmedslah911/kali-terminal-on-parrot/main/kali-to-parrot.sh | sudo bash
 ```
 
 ## 🎓 Educational Use Case
