@@ -66,7 +66,7 @@ login
 sudo -i
 ```
 
-🔹 One-Liner Installation
+## 🔹 One-Liner Installation
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/kali-terminal-on-parrot.git && \
@@ -76,13 +76,13 @@ sudo ./kali-terminal-on-parrot.sh
 ```
 
 
-🔹 Direct Execution (Advanced)
+## 🔹 Direct Execution (Advanced)
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/kali-terminal-on-parrot/main/kali-terminal-on-parrot.sh | sudo bash
 ```
 
-🎓 Educational Use Case
+## 🎓 Educational Use Case
 
 This project is ideal for:
 
@@ -96,14 +96,14 @@ Students transitioning from Kali Linux to Parrot OS
 
 The terminal prompt clearly indicates root access to prevent mistakes during training.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Eng.Ahmed Salah
 Cyber Security Instructor & Specialist & Script Developer
 
 This script was designed, developed, and tested on Parrot OS for educational and professional use.
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 Facebook: https://facebook.com/ahmedslah911
 
@@ -113,7 +113,7 @@ Telegram: https://t.me/ahmedslah911
 
 LinkedIn: https://linkedin.com/in/ahmedslah911
 
-📜 License
+## 📜 License
 
 MIT License — free to use, modify, and distribute for educational purposes.
 
