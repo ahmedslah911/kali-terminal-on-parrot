@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/zsh/zsh.png" width="120">
+  <img src="https://wiki.hacksoc.co.uk/~gitbook/image?url=https%3A%2F%2F3941705582-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MZnnFpzNdn0bqwsads7%252Fuploads%252Fgit-blob-fb9fbec7ab28a9abce85e457afa4b2a3f31ae038%252Fzsh-logo.jpg%3Falt%3Dmedia&width=768&dpr=1&quality=100&sign=974e8678&sv=2" width="120">
 </p>
 
 <h1 align="center">Kali Terminal Experience on Parrot OS</h1>
