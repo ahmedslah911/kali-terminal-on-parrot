@@ -55,23 +55,32 @@ git clone https://github.com/YOUR_USERNAME/kali-terminal-on-parrot.git
 cd kali-terminal-on-parrot
 chmod +x kali-terminal-on-parrot.sh
 sudo ./kali-terminal-on-parrot.sh
+```
 
 
 ## After installation:
 
+```bash
 logout
 login
 sudo -i
+```
+
+🔹 One-Liner Installation
 
 ```bash
-🔹 One-Liner Installation
 git clone https://github.com/YOUR_USERNAME/kali-terminal-on-parrot.git && \
 cd kali-terminal-on-parrot && \
 chmod +x kali-terminal-on-parrot.sh && \
 sudo ./kali-terminal-on-parrot.sh
+```
+
 
 🔹 Direct Execution (Advanced)
+
+```bash
 curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/kali-terminal-on-parrot/main/kali-terminal-on-parrot.sh | sudo bash
+```
 
 🎓 Educational Use Case
 
