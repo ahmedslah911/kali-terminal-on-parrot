@@ -57,12 +57,13 @@ chmod +x kali-terminal-on-parrot.sh
 sudo ./kali-terminal-on-parrot.sh
 
 
-After installation:
+## After installation:
 
 logout
 login
 sudo -i
 
+```bash
 🔹 One-Liner Installation
 git clone https://github.com/YOUR_USERNAME/kali-terminal-on-parrot.git && \
 cd kali-terminal-on-parrot && \
